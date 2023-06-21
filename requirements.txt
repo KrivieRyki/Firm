@@ -1,0 +1,9 @@
+gunicorn
+psycopg2
+django-storages
+boto3
+django-minio-storage
+minio
+djangorestframework
+Pillow
+
